@@ -35,8 +35,8 @@
             Postcode: <input type='text' name='postcode' /><br>
             Woonplaats: <input type='text' name='woonplaats' /><br>
 			Emailadres: <input type='text' name='emailadres' /><br>
-			<input type='submit' name='submit' />			
-		</form>	
+			<input type='submit' name='submit' />
+		</form>
 	</body>
 </html>
 <?php
